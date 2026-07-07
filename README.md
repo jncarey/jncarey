@@ -4,4 +4,4 @@ I'm Jeffrey, an accomplished research scientist with extensive wet lab experienc
 <h2>Simulation</h2>
 
 - <b>Stochastic gene expression in a bacterial signaling system</b>
-  - [TMAO reductase expression simulation](https://github.com/jncarey/TEMP)
+  - [TMAO reductase expression simulation](https://github.com/GoulianLab/tor-simulation)
